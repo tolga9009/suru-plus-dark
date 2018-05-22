@@ -1,6 +1,5 @@
-
-SURU++
-URL:
+Suru++ Dark
+URL: https://github.com/suru-plus/SURU-PLUS-DARK
 
 The FreeDesktop Suru icon set is designed and developed by:
 
