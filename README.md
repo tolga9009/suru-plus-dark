@@ -115,6 +115,9 @@ The contributors is on the file AUTHORS
 
 The changelog is available on the release page in theme's repository.
 
+
+
+
 ## License
 
-LGPL3 © Suru++
+GPL3 © Suru++ Dark by Andrea Bonanni and Suru++ Project.
